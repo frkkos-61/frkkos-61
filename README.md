@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
 <h3 align="center">Frontend Developer|React Developer|Backend Developer|React Native Developer|</h3>
 
-- 🔭 I’m currently working on **Javascript, React.Js, HTML, HTML5, CSS3, CSS, BS, SASS SCSS TS**
+- 🔭 I’m currently working on **Javascript, React.Js,REACT Native HTML, HTML5, CSS3, CSS, BS, SASS SCSS TS**
 
-- 🌱 I’m currently learning **NEXT.JS, EXPRESS.JS, NODE.JS, MONGO.DB AND REACT NATİVE MOBİLE**
+- 🌱 I’m currently learning **NEXT.JS, EXPRESS.JS, NODE.JS, MONGO.DB AND **
 
 - 📫 How to reach me **faruk.kos61@gmail.com**
 

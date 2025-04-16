@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
 <h3 align="center">Frontend Developer|React Developer|React Native Developer|</h3>
 
-- 🔭 I’m currently working on **Javascript, React.Js,REACT Native HTML, HTML5, CSS3, CSS, BS, SASS SCSS TS**
+- 🔭 I’m currently working on **Javascript, React.Js, TypeScipt,SQL lite, XCODE, Git-Github, Tanstack Query,Unit Test,Next.js,REACT Native, HTML, HTML5, CSS3, CSS, BS, SASS SCSS**
 
-- 🌱 I’m currently learning **NEXT.JS, EXPRESS.JS, NODE.JS, MONGO.DB AND **
+- 🌱 I’m currently learning **EXPRESS.JS, NODE.JS, MONGO.DB**
 
-- 📫 How to reach me **faruk.kos61@gmail.com**
+- 📫 How to reach me **faruk.kos61@gmail.com - www.linkedin.com/in/ömer-faruk-koş-101817316**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

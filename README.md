@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **EXPRESS.JS, NODE.JS, MONGO.DB**
 
 - 📫 How to reach me **faruk.kos61@gmail.com - www.linkedin.com/in/ömer-faruk-koş-101817316**
-- 🥷🏻My Portfolio **http://codebyomer.com/**
+- 🥷🏻My Portfolio **https://codebyomer.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
